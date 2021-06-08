@@ -1,0 +1,13 @@
+{
+    "name": "josi/php-1-exercices",
+    "authors": [
+        {
+            "name": "JosiCayon",
+            "email": "josicayon93@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
